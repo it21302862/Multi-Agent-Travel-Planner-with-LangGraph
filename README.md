@@ -8,7 +8,7 @@ This project demonstrates how **Agentic AI** can solve a real-world problem by c
 
 ## 📸 Demo
 
-
+![Demo](./demo.gif)
 
 ---
 
